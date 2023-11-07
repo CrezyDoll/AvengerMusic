@@ -26,6 +26,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="Owner", user_id=config.OWNER_ID),
         ],
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
         [
