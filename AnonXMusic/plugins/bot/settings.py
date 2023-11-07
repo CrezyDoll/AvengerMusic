@@ -94,7 +94,7 @@ async def gib_repo(client, CallbackQuery, _):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/Red_Wine_Op"),
+                    InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/+3puHg5EoB_81NTA1"),
                     InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Kalakar_Sangram")
                 ],
                 [InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data=f"settingsback_helper")]
@@ -115,7 +115,7 @@ async def gib_repo(client, CallbackQuery, _):
             [
                 [
                     InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/Backup_Bosss"),
-                    InlineKeyboardButton(text="ᴄʜɪᴛ ᴄʜᴀᴛ", url=f"https://t.me/Red_Wine_Op")
+                    InlineKeyboardButton(text="ᴄʜɪᴛ ᴄʜᴀᴛ", url=f"https://t.me/+3puHg5EoB_81NTA1")
                 ],
                 [InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data=f"settingsback_helper")]
             ]
